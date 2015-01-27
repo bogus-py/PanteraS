@@ -1,4 +1,4 @@
-FROM paas
+FROM idyck/paas
 
 MAINTAINER Wojciech Sielski "wsielski@team.mobile.de"
 

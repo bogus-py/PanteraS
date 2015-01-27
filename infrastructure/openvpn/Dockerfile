@@ -1,5 +1,5 @@
 # Leaner build then Ubunutu
-FROM paas
+FROM idyck/paas
 
 RUN apt-get update && \
     apt-get -y build-dep pam && \

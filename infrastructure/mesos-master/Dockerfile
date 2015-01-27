@@ -1,4 +1,4 @@
-FROM mesos
+FROM idyck/mesos
 MAINTAINER Mark O'Connor <mark@myspotontheweb.com>
 
 EXPOSE 5050

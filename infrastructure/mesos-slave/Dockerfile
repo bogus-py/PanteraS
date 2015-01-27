@@ -1,4 +1,4 @@
-FROM mesos
+FROM idyck/mesos
 MAINTAINER Wojciech Sielski "wsielski@team.mobile.de"
 
 # /etc/mesos-slave settings are /usr/bin/mesos-init-wrapper specific

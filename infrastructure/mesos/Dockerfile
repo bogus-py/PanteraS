@@ -1,4 +1,4 @@
-FROM paas
+FROM idyck/paas
 MAINTAINER Wojciech Sielski "wsielski@team.mobile.de"
 
 RUN echo "deb http://repos.mesosphere.io/ubuntu/ trusty main" > /etc/apt/sources.list.d/mesosphere.list

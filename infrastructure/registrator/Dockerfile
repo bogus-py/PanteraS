@@ -1,4 +1,4 @@
-FROM paas
+FROM idyck/paas
 MAINTAINER Jonathan Colby "jcolby@team.mobile.de"
 
 RUN mkdir /opt/registrator
